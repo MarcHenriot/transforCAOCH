@@ -1,5 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/github/PeopleOfPlay/fandecaoch/blob/main/train.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PeopleOfPlay/fandecaoch/blob/main/train.ipynb)
 
 # Intro
 
