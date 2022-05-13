@@ -7,4 +7,3 @@ This repo is an attempt to create a gpt-like model that generates a movie commen
 # TODO
 
  - [ ] Finuetuned model
- - [ ] Enjoy
