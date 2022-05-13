@@ -4,7 +4,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 
 if __name__ == "__main__":
-    with open('scraper/data/urls.txt', 'w') as f:
+    with open('data/urls.txt', 'w') as f:
         for page in range(1, 57):
             url = f"https://www.allocine.fr/membre-Z20090323193222567627582/critiques/films/?page={page}"
 

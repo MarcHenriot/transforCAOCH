@@ -18,7 +18,7 @@ if __name__ == '__main__':
         'id': [],
         'comment': [],
     }
-    with open('scraper/data/urls.txt', 'r') as f:
+    with open('data/urls.txt', 'r') as f:
         urls = f.readlines()
         for url in urls:
             browser = webdriver.Chrome(ChromeDriverManager().install())
