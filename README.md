@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PeopleOfPlay/fandecaoch/blob/main/generate_txt.ipynb)
+Try it : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PeopleOfPlay/fandecaoch/blob/main/generate_txt.ipynb)
 
 # Intro
 
