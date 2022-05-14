@@ -1,8 +1,14 @@
-Try it : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PeopleOfPlay/fandecaoch/blob/main/generate_txt.ipynb)
-
 # Intro
 
 This repo is an attempt to create a gpt-like model that generates a movie commentary based on the style of our beloved Fandecaoch.
+
+# Generate review
+
+In order to generate your own review : 
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PeopleOfPlay/fandecaoch/blob/main/generate_txt.ipynb)
+ - Edit `film_title` to what ever you want !
+ - Run the jupyter
+ - Enjoy !!
 
 # Example output
 
