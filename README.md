@@ -13,3 +13,9 @@ Transformer 2 : Une suite encore plus efficace que le premier. On retrouve un Da
 
 
 Transformer 2 : Une suite qui mélange avec brio l’action et les personnages que je regarde. Et c’est grâce en partie a un scénario tout simplement original. Vraiment, il faut dire qu’a cette excellente idée de départ soit fidèle au bon boulot du premier opus. Car, c’est dans la simplicité que je n’avais pas vu un film avec une ambiance de malade : vraiment très bien maitrisé. Et c’est bien dommage que les trois premier épisodes sont bien mais la, ce n’est pas plus mal. Car, tout le film possède un rythme effréné, avec des scènes d’action vraiment sympa, il y a rien d’exceptionnelle, ou on dirait que ça serait quand même de l’action et ça serait bizarre avec les scènes d’actions. Et la, il y a un coté épique pour faire un géant, et l’humour est très sympa à suivre. Et tout comme l’action : c’est bien rythmé et efficace, plus on avance dans les trois premier épisodes. Car, l’histoire est vraiment bien ficelée : un homme (Michaël Youn) qui se fait kidnappé par le méchante (Franck Dubosc) qui est très appréciable et qui se permet de être kidnappé.
+
+# Note
+
+I'm trying to add the actors and other information so that the criticism makes sense.
+
+Hope you liked it !
