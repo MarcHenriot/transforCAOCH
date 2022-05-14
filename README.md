@@ -4,7 +4,7 @@
 
 This repo is an attempt to create a gpt-like model that generates a movie commentary based on the style of our beloved Fandecaoch.
 
-# Exemple of outputs
+# Example output
 
 Transformer 2 : C’est assez différent dans les anciens épisodes de la trilogie. Je l’ai vraiment aimée au cinéma avec cequel tout simplement culte. Quel plaisir de retrouvé les nouveaux personnages hauts en couleurs du feu de dieu. Mais, ça aurait pu faire de gags en gags mais ça a le mieux et de personnage quelque chose car il y a pas de dialogue pour les nouveaux : comme la femme le fait sur les dieux. Enfin, tous ça sert encore une fois rythmé, ça s’arrête pas mal dans l’action mais en plus, on y croit pas mal et le combat final est au rendez vous. Après, ils n’auraient pas trouvé une suite mais le premier n’est pas facile et tout le film s’emboit et l’ensemble reste efficace. Sinon, niveau scénario, il a du mal a lui reproche. C’est très cliché de notre société du cinéma mais il est bien dosé entre autres personnages. Et donc, ce que j’ai dit aimée, c’est que il y a quelque facilité qui se met en place mais ça va encore. Sinon, les acteurs sont très bons, j’adore toujours Christian Bale qui est écouté parfaitement dans son rôle de manipulateur.
 
