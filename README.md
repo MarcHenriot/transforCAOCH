@@ -6,7 +6,7 @@ This repo is an attempt to create a gpt-like model that generates a movie commen
 
 In order to generate your own review : 
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PeopleOfPlay/fandecaoch/blob/main/generate_txt.ipynb)
- - Edit `film_title` to what ever you want !
+ - Edit `title`, `meta`, `director` and `cast` to what ever you want !
  - Run the jupyter
  - Enjoy !!
 
