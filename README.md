@@ -18,9 +18,3 @@ Transformers 2 : Vraiment excellent et très divertissent comme tous le monde. Q
 
 
 Transformers 2  : Moi qui est tout simplement énorme et j’ai tout simplement adoré ce remake qui est un véritable caché. Moi qui est tout simplement excellent : sacré caché et très énergique pour les fans de la saga. Vraiment une très bonne suite, l’esprit et la classe est vraiment énorme, les effets spéciaux sont vraiment très impressionnant, les scènes d’action de la série sont très réussit et assurent le spectacle grâce a l’action spectaculaire. Ensuit, l’action est vraiment génial : on a le droit a des explosions et des décors de l’autre, des explosions qui donne le tout. Vraiment excellent, j’ai était absorbé et emballé par cette sensation de grandeur, mais j’ai halluciné et surtout surprit par cette tension palpable et intense. L’action est très prenant et assure le grand spectacle. Ensuite, les acteurs sont plus que convaincant : Shia LaBeouf et Josh Duhamel, j’ai trouvé vraiment excellent et le casting est solide. Ensuit, le petit compositeur est vraiment excellent et très inspiré, c'est-à-dire un indic (Ratatouille, Men In Black) qui aurait pu être encore mieux être encore plus sérieux et un indic (Ratatouille) avec autre rôle. Et les autres acteurs sont eux aussi géniaux. Voila ce que j’ai adoré cette premier et je suis pas ennuyer normal car j’ai passé un bon moment, je vous le conseil absolument car c’est un coup de cœur !
-
-# Note
-
-I'm trying to add the actors and other information so that the criticism makes sense.
-
-Hope you liked it !
